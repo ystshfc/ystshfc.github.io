@@ -1,0 +1,139 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>意外艺术&nbsp;|&nbsp;这个时代的审美力</title><meta name="viewport" content="width=device-width,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"/><meta name="keywords" content="意外艺术官网，艺术很难吗，意公子，当代艺术，意外艺术app，意外艺术微信，艺术电商，艺术媒体"/><meta name="description" content="意外艺术网致力于通过互联网传播大众艺术，加入意外艺术，一天一天提高审美情趣。"/><meta name="baidu-site-verification" content="8MerXlAFag"/><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><link rel="icon" href="/statics/yiwaiPC/images/logo.ico" type="image/x-icon"/><link rel="shortcut icon" href="/statics/yiwaiPC/images/logo.ico"><link rel="Bookmark" href="/statics/yiwaiPC/images/logo.ico"><link rel="SHORTCUT ICON" href="/statics/yiwaiPC/images/logo.ico"/><script src="/statics/yiwaiPC/js/jquery.min.js"></script><script>		var version = location.href.indexOf("?tdev") > 0 ? (1 + Math.round(Math.random() * 9999 - 1)) : '1.2';
+		var Common = location.search.indexOf("Common");
+		var slider = $('#slider4');
+		var Artwork = location.search.indexOf("Artwork");
+		if (slider.length > 0) {
+			console.log(slider)
+			document.write('<link href="/statics/yiwaiPC/css/carousel_index.css?v=' + version + '" rel="stylesheet" type="text/css">');
+		}
+		document.write('<link href="/statics/yiwaiPC/css/base.css?v=' + version + '" rel="stylesheet" type="text/css" />');
+		document.write('<link href="/statics/yiwaiPC/css/main.css?v=' + version + '" rel="stylesheet" type="text/css" />');
+		// document.write('<link href="/statics/yiwaiPC/css/video_css/mediaelementplayer.css?v='+version+'" rel="stylesheet" type="text/css">');
+		document.write('<link href="/statics/yiwaiPC/css/responsiveslides.css?v=' + version + '" rel="stylesheet" type="text/css">');
+		if (Common > -1) {
+			document.write('<link href="/statics/yiwaiPC/css/carousel.css?v=' + version + '" rel="stylesheet" type="text/css">');
+		}
+		if (Artwork > -1) {
+			document.write('<link href="/statics/yiwaiPC/css/swiper.min.css?v=' + version + '" rel="stylesheet" type="text/css">');
+		}
+	</script></head><body><script src="/statics/share/js/jquery-2.1.4.min.js"></script><script src="/statics/bootstrap/js/bootstrap.min.js"></script><link rel="stylesheet" type="text/css" href="/statics/bootstrap/css/bootstrap.min.css"/><link rel="stylesheet" type="text/css" href="/statics/yiwaiPC/css/base.css"/><link rel="stylesheet" type="text/css" href="/statics/yiwaiPC/css/bootstrapMod.css"/><script src="http://siteapp.baidu.com/static/webappservice/uaredirect.js"; type="text/javascript"></script><script type="text/javascript">    uaredirect("web.php");
+</script><div class="container-fluid pl0 pr0 posr"><!--logo--><div class="logo"><div class="fl mrp2"><img src="./statics/yiwaiPC/images/logopc.png"></div><div class="fl logop"><p class="ff_yh fsp16 mbp2 cdefault"><strong>艺术大众化传播平台</strong></p><p class="ff_yh fsp14 cdefault">百万微信粉丝、上亿视频播放、最大艺术社群</p></div><div style="clear: both;"></div></div><!--顶部--><div class="row-fluid"><div class="col-md-12 pl0 pr0"><!--轮播图--><div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="5000"><div class="carousel-inner"><div class="active item"><a href="http://i.youku.com/u/UMTI4NDEyNTEyOA==" target="_blank"><img src="http://img.yiwaiart.com/yiwai/yiwaiapp/2016/06/28/7d82dbe7f41d4f35308260e264af7886.jpeg" alt="艺术很难吗海报" width="100%"></a></div></div><!--轮播图切换--><!--导航栏--><div class="navbg"><ul class="navbgul"><li class="fl navbgli"><a href="https://mp.weixin.qq.com/s?__biz=MjM5OTUzNjE0NA==&mid=507587800&idx=1&sn=3b04b756ab28ca40661a368d982aacb5&scene=1&srcid=06282p0W5TFm6iKLrCnlrThp&key=77421cf58af4a6533ad4ab8fb8ef042fe70fc17536803a8580dd60c712e62d9ff08177493b5e9e0945a732c04692bd4a&ascene=0&" target="_blank" class="navbga fsp18" style="outline: none;">意外介绍</a></li><span class="ff_yh lightgray cpointer">\</span><li class="fl navbgli"><a href="http://wap.koudaitong.com/v2/feature/1a4waqqtq" target="_blank" class="navbga fsp18" style="outline: none;">联系我们</a></li><span class="ff_yh lightgray cpointer">\</span><li class="fl navbgli"><a href="https://mp.weixin.qq.com/s?__biz=MjM5OTUzNjE0NA==&mid=200121482&idx=1&sn=9d0028240e208e91bd4a1211c75c27c3&scene=1&srcid=0628b03ziUDeyVnLTgS20Yn3&key=77421cf58af4a6533846d3d6ea61d7400ac543cacc94fc54445141ee43e1fdef1611e0cd8ec2645dfd4b8b27e98e8891&ascene=0&" target="_blank" class="navbga fsp18" style="outline: none;">加入我们</a></li><span class="ff_yh lightgray cpointer">\</span><li class="fl navbgli"><a href="http://form.mikecrm.com/78jpFH" target="_blank" class="navbga fsp18" style="outline: none;">意见反馈</a></li><div style="clear: both;"></div></ul><input type="hidden" class="cnum" value="4"></div></div></div><div style="clear: both;"></div></div><!--意外是谁--><div class="row-fluid w1200"><div class="col-md-12 col-sm-12 col-xs-12 mtp7 intro"><div class="textC mtp6"><p class="ff_yh cyellow fsp26">意&nbsp;外&nbsp;是&nbsp;谁</p><img src="../../../../statics/yiwaiPC/images/black.png" class="mtp1"></div><div class="textC mtp5"><p class="ff_yh lightgray fsp20 introp">意外艺术是一个互联网艺术大众化的传播平台，致力于艺术大众化，通过原创文章、视频节目、好物推荐和线下艺术体验等形式，让艺术不再高高在上而是成为一种生活方式。</p><p class="ff_yh lightgray fsp20 mtp3 introp">在这个信息爆炸的时代，安静地阅读艺术，坚守早已遗失的自己，满足大众心底对美的渴求，是意外艺术一直的坚持和努力的方向。</p></div><div class="textC mtp7 mbp6 viewall"><a href="http://mp.weixin.qq.com/s?__biz=MjM5OTUzNjE0NA==&mid=507587800&idx=1&sn=3b04b756ab28ca40661a368d982aacb5#wechat_redirect" target="_blank" class="all fsp18 ff_yh">查看完整介绍&gt;&gt;</a></div></div><div style="clear: both;"></div></div><!--媒体报道--><div class="row-fluid w1200 report"><div class="col-lg-7 col-md-12 col-sm-12 col-xs-12 h550"><div class="reportleft"><div class="reporttitle"><p class="ff_yh fsp26">媒&nbsp;体&nbsp;报&nbsp;道</p><img src="../../../../statics/yiwaiPC/images/yellow.png"></div><ul class="reportul"><li class="reportli"><a href="http://collection.sina.com.cn/yjjj/2016-07-29/doc-ifxunyxy5952691.shtml" target="_blank" class="ff_yh fsp20 over" style="outline: none;">新浪：意外艺术：艺术消费新趋势论坛暨战略发布会举办</a></li><li class="reportli"><a href="http://mp.weixin.qq.com/s?__biz=MzA3MDIyNzg4NA==&mid=2696824580&idx=2&sn=de720e6231d61f45f0566750c355d90f&scene=1&srcid=0624Zwv0REdz2L6ES4224ZLa#rd" target="_blank" class="ff_yh fsp20 over" style="outline: none;">【意外艺术专访】意外揭秘艺术很难吗？</a></li><li class="reportli"><a href="http://www.cyzone.cn/a/20160427/294984.html" target="_blank" class="ff_yh fsp20 over" style="outline: none;">＃首发＃滞销3年的高冷画册，被“意外”23小时卖完全球库存，这家公司A轮融资1300万！</a></li><li class="reportli"><a href="http://www.iheima.com/promote/2016/0428/155471.shtml?plg_nld=1&plg_uin=1&plg_auth=1&plg_nld=1&plg_usr=1&plg_vkey=1&plg_dev=1" target="_blank" class="ff_yh fsp20 over" style="outline: none;">没有papi酱红，意公子她凭什么能融来更多钱？</a></li><li class="reportli"><a href="http://mp.weixin.qq.com/s?__biz=MzI0NzAzNTUwMQ==&mid=2652413267&idx=2&sn=db8dc2cd4683ee83f51818589489baf0&scene=1&srcid=0513AENhKgJ6Lnr4ZWnNFHz7#wechat_redirect" target="_blank" class="ff_yh fsp20 over" style="outline: none;">融资1300万 她的脱口秀让200万用户说艺术So Easy 画册2小时卖20万元</a></li><li class="reportli"><a href="http://www.lieyunwang.com/archives/104368" target="_blank" class="ff_yh fsp20 over" style="outline: none;">艺术很难吗？“意外艺术”从艺术普及入手，抓住增量市场</a></li></ul></div></div><div class="col-md-5 visible-lg reportright h550"><i style="display:inline-block;height:100%;vertical-align:middle"></i><img src="../../../../statics/yiwaiPC/images/reportbg.png" class="reportimg"></div><div style="clear: both;"></div></div><!--关注我们--><div class="hidden-xs hidden-sm row-fluid w1200"><div class="col-md-12 col-sm-12 col-xs-12 follow"><div class="textC mtp7"><p class="ff_yh cyellow fsp26">关&nbsp;注&nbsp;我&nbsp;们</p><img src="../../../../statics/yiwaiPC/images/black.png" class="mtp1"></div><div class="textC mtp5"><img src="../../../../statics/yiwaiPC/images/index/wechat.png" width="15%"><p class="ff_yh lightgray fsp20 mtp3">官方微信</p></div><div class="mtp6"><ul class="video"><a href="http://weibo.com/yiwai11?refer_flag=1001030101_" target="_blank" class="ff_yh lightgray fsp16"><li><img src="../../../../statics/yiwaiPC/images/follow/sina.png" class="mrp6" height="20px"><span class="vam">意外艺术</span></li></a><a href="http://v.qq.com/vplus/yiwaiart" target="_blank" class="ff_yh lightgray fsp16"><li><img src="../../../../statics/yiwaiPC/images/follow/Tencent.png" class="mrp6" height="20px"><span class="vam">腾讯视频</span></li></a><a href="http://i.youku.com/u/UMTI4NDEyNTEyOA==" target="_blank" class="ff_yh lightgray fsp16"><li><img src="../../../../statics/yiwaiPC/images/follow/youku.png" class="mrp6" height="20px"><span class="vam">优酷视频</span></li></a><a href="http://www.le.com/ptv/vplay/25272618.html#vid=25272618" target="_blank" class="ff_yh lightgray fsp16"><li><img src="../../../../statics/yiwaiPC/images/follow/letv.png" class="mrp6" height="20px"><span class="vam">乐视视频</span></li></a><a href="http://www.miaopai.com/u/paike_b7tf66hign" target="_blank" class="ff_yh lightgray fsp16"><li><img src="../../../../statics/yiwaiPC/images/follow/miaopai.png" class="mrp6" height="20px"><span class="vam">秒拍视频</span></li></a><a href="http://toutiao.com/m3334210308/" target="_blank" class="ff_yh lightgray fsp16"><li><img src="../../../../statics/yiwaiPC/images/follow/toutiao.png" class="mrp6"><span class="vam">今日头条</span></li></a><a href="http://weibo.com/u/2427342952?refer_flag=1001030101_&is_all=1" target="_blank" class="ff_yh lightgray fsp16"><li><img src="../../../../statics/yiwaiPC/images/follow/sina.png" class="mrp6" height="20px"><span class="vam">意公子</span></li></a><a href="http://my.tv.sohu.com/user/223910756" target="_blank" class="ff_yh lightgray fsp16"><li><img src="../../../../statics/yiwaiPC/images/follow/sohu.png" class="mrp6" height="20px"><span class="vam">搜狐视频</span></li></a><a href="http://space.bilibili.com/5509691" target="_blank" class="ff_yh lightgray fsp16"><li><img src="../../../../statics/yiwaiPC/images/follow/bilibili.png" class="bilibili"><span class="vam">哔哩哔哩</span></li></a><a href="http://www.iqiyi.com/u/2179673492" target="_blank" class="ff_yh lightgray fsp16"><li><img src="../../../../statics/yiwaiPC/images/follow/iqiyi.png" class="iqiyi" height="20px"><span class="vam minvam">爱奇艺视频</span></li></a><a href="http://www.ximalaya.com/zhubo/12752020/" target="_blank" class="ff_yh lightgray fsp16"><li><img src="../../../../statics/yiwaiPC/images/follow/xmly.png" class="mrp6" height="20px"><span class="vam minvam">喜马拉雅FM</span></li></a><div style="clear: both;"></div></ul></div></div><div style="clear: both;"></div></div><div style="clear: both;"></div><!--关注我们-小屏--><div class="visible-xs visible-sm row-fluid follow w1200"><div class="col-xs-12"><div class="textC mtp7"><p class="ff_yh cyellow fsp26">关&nbsp;注&nbsp;我&nbsp;们</p><img src="../../../../statics/yiwaiPC/images/black.png" class="mtp2"></div><div class="textC mtp5"><img src="../../../../statics/yiwaiPC/images/index/wechat.png" width="35%"><p class="ff_yh lightgray fsp20 mtp2">官方微信</p></div></div><div class="col-xs-6 textC mtp5"><a href="http://weibo.com/yiwai11?refer_flag=1001030101_" target="_blank" class="ff_yh lightgray fsp20"><img src="../../../../statics/yiwaiPC/images/follow/sina.png" class="mrp6"><span class="vam">意外艺术</span></a></div><div class="col-xs-6 textC mtp5"><a href="http://weibo.com/u/2427342952?refer_flag=1001030101_&is_all=1" target="_blank" class="ff_yh lightgray fsp20"><img src="../../../../statics/yiwaiPC/images/follow/sina.png" class="mrp6"><span class="vam">意公子</span></a></div><div class="col-xs-4 videolist"><ul class="textC"><li><a href="http://www.miaopai.com/u/paike_b7tf66hign" target="_blank" class="ff_yh lightgray fsp20"><span class="vam">秒拍视频</span></a></li><li><a href="http://www.le.com/ptv/vplay/25272618.html#vid=25272618" target="_blank" class="ff_yh lightgray fsp20"><span class="vam">乐视视频</span></a></li><li class="mbp30"><a href="http://www.iqiyi.com/u/2179673492" target="_blank" class="ff_yh lightgray fsp20"><span class="vam">爱奇艺视频</span></a></li></ul></div><div class="col-xs-4 videolist"><ul class="textC"><li><a href="http://v.qq.com/vplus/yiwaiart" target="_blank" class="ff_yh lightgray fsp20"><span class="vam">腾讯视频</span></a></li><li><a href="http://my.tv.sohu.com/user/223910756" target="_blank" class="ff_yh lightgray fsp20"><span class="vam">搜狐视频</span></a></li><li class="mbp30"><a href="http://toutiao.com/m3334210308/" target="_blank" class="ff_yh lightgray fsp20"><span class="vam">今日头条</span></a></li></ul></div><div class="col-xs-4 videolist"><ul class="textC"><li><a href="http://i.youku.com/u/UMTI4NDEyNTEyOA==" target="_blank" class="ff_yh lightgray fsp20"><span class="vam">优酷视频</span></a></li><li><a href="http://space.bilibili.com/5509691" target="_blank" class="ff_yh lightgray fsp20"><span class="vam">哔哩哔哩</span></a></li><li class="mbp30"><a href="http://www.ximalaya.com/zhubo/12752020/" target="_blank" class="ff_yh lightgray fsp20"><span class="vam">喜马拉雅FM</span></a></li></ul></div><div style="clear: both;"></div></div><div style="clear: both;"></div></div><div class="container-fluid footerbg pl0 pr0 mtp6"><div class="row-fluid"><div class="col-md-12 textC ptp2 pbp2"><p class="cfooter fs16">意外艺术&nbsp;|&nbsp;&copy;&nbsp;2016&nbsp;厦门意外境界有限公司&nbsp;版权所有&nbsp;闽ICP备12022216号
+        </div><div style="clear: both;"></div></div></div><div style="display:none;" id="goBox"><a href="javascript:;" class="gotop" title="回到顶端" id="gotop"></a></div><!-- end footer --></body><script src="/statics/yiwaiPC/js/jquery.min.js"></script><script src="/statics/yiwaiPC/js/jquery.cookie.js"></script><script src="/statics/yiwaiPC/js/header.js"></script><script src="/statics/yiwaiPC/js/swiper.min.js"></script><script src="/statics/yiwaiPC/js/responsiveslides.min.js"></script><script src="/statics/yiwaiPC/js/mediaelement-and-player.min.js"></script><script>    // 统计代码
+    var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1259626401'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s95.cnzz.com/z_stat.php%3Fid%3D1259626401%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));
+    $(function(){
+        $(".arist-list-detail").find("li:even").css("margin-right","22px");
+        judgeLi();
+        function goTop(){
+            $(window).scroll(function(e) {
+                //若滚动条离顶部大于100元素
+                if($(window).scrollTop()>500){
+                    $("#goBox").fadeIn(1000);
+                }else{
+                    // $("#goBox").fadeOut(1000);
+                    $("#goBox").hide();
+                }
+            });
+        };
+        $("#gotop").click(function(e) {
+            //以1秒的间隔返回顶部
+            $('body,html').animate({scrollTop:0},1000);
+        });
+
+        $('#gotop').hover(
+                function() {
+                    $(this).animate({ width: "98px" },250);
+                }, function() {
+                    $(this).animate({ width: "32px" },250);
+                }
+        );
+
+        $('#wechat-on').hover(
+                function() {
+                    $(this).animate({ width: "98px" },250);
+                }, function() {
+                    $(this).animate({ width: "32px" },250);
+                }
+        );
+
+        $('#appDw').hover(
+                function() {
+                    $(this).animate({ width: "98px" },250);
+                }, function() {
+                    $(this).animate({ width: "32px" },250);
+                }
+        );
+
+        $('#appDw').on('click',function(){
+            $("html,body").animate({scrollTop:$('.downloadApp').offset().top},100);
+        })
+        $('#wechat-on').on('click',function(){
+            $("html,body").animate({scrollTop:$('.footer').offset().top},100);
+        })
+
+        goTop();
+    });
+    function judgeLi(){
+        var indexLink = location.search;
+        var $forthLi = $(".forth_tab>ul").find("li");
+        if(indexLink.indexOf("indexfirst") >-1){
+            $forthLi.eq(0).addClass("current");
+        }else if(indexLink.indexOf("Artwork") > -1){
+            $forthLi.eq(1).addClass("current");
+        }else if(indexLink.indexOf("Reds") > -1){
+            $forthLi.eq(2).addClass("current");
+        }else if(indexLink.indexOf("Arthard") > -1){
+            $forthLi.eq(3).addClass("current");
+        }else if(indexLink.indexOf("Common") > -1){
+            $forthLi.eq(4).addClass("current");
+        }else{
+            $forthLi.eq(0).addClass("current");
+        }
+    }
+
+
+    $('#cnzz_stat_icon_1259626401').hide();
+
+</script></html><script type="text/javascript">    var navH = document.getElementsByClassName('navbg')[0].offsetTop;
+    $(window).scroll(function(){
+        scroll();
+    })
+    window.onload=function(){
+        changeDivHeight();
+        scroll();
+    }
+    window.onresize=function(){
+        changeDivHeight();
+        scroll();
+    }
+
+    //改变导航栏大小
+    function changeDivHeight(){
+        var width = document.body.offsetWidth;
+        var cnum = $('.cnum').val();
+        if ((cnum == 4 && width < 833) || (cnum == 5 && width < 1044) || (cnum == 6 && width < 1254)) {
+            $('.navbg').css('height', 140);
+        } else {
+            $('.navbg').css('height', 70);
+        }
+    }
+    //导航栏固定
+    function scroll() {
+        //获取滚动条的滑动距离
+        var scroH = document.documentElement.scrollTop || window.pageYOffset || document.body.scrollTop;
+        //滚动条的滑动距离大于等于定位元素距离浏览器顶部的距离，就固定，反之就不固定
+        if (scroH >= navH) {
+            $('.navbg').css({
+                'top': '0',
+                'position': 'fixed',
+                'bottom': 'auto'
+            });
+        } else {
+            $('.navbg').css({
+                'top': 'auto',
+                'position': 'absolute',
+                'bottom': '0'
+            });
+        }
+    }
+
+</script>
